@@ -18,4 +18,4 @@ A professional Full-Stack User Management system with complete CRUD functionalit
 
 1. **Clone the repo:**
    ```bash
-   git clone [your-repo-link]
+   git clone https://github.com/KalyadapuVamshiKrishna/user-dashboard
